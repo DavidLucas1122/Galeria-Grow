@@ -1,7 +1,7 @@
 # Galeria-Grow
 ![][def]
 
-Website galeria grow para treino no desenvolvimento de sites.
+Este projeto foi desenvolvido com o objetivo de treinar o desenvolvimento de sites, utilizando HTML e CSS. O site exibe uma galeria de imagens com um layout dinâmico e visualmente atraente.
 
 ## Tecnologias
 * HTML
